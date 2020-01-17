@@ -1,8 +1,3 @@
-/* Copyright(C) 2017 Cobac.Net All Rights Reserved. */
-/* chapter: 第2章 */
-/* project: SEC10 */
-/* outline: 1秒桁 */
-
 module SEC10(
     input   CLK, RST,
     output  reg [6:0]   HEX0,			//1桁目
